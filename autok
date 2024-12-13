@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="hu">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Ezen a veboldalon leírok pár autóról érdekességeket" />
-<meta name="keywords" content="autok, autók" />
-<title>Nagy Gergely</title>
-<style>
-<link rel="stylesheet" href="stilus.css">   
-</head>
+    <head>
+        <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Ezen a veboldalon leírok pár autóról érdekességeket" />
+        <meta name="keywords" content="autok, autók" />
+        <title>Nagy Gergely</title>
+    <style>
+    <link rel="stylesheet" href="stilus.css">   
+    </head>
 <body>
 <a href="#koneigseggjecksoabsolut">Koenigsegg</a> |
 <a href="#benzpatentmotorwagen">Patent-Motorwagen</a> |
